@@ -1,0 +1,6 @@
+@Checking_Logger_Checking_Singleton_HostAddress = http://localhost:5127
+
+GET {{Checking_Logger_Checking_Singleton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
